@@ -1,14 +1,18 @@
-.vote{
-    width: 100px;
-    padding:20px;
-    display:block;
-    margin:15px;
+.vote {
+  width: 100px;
+  padding: 20px;
+  display: block;
+  margin: 15px;
 }
 
 .vote.yes {
-    background : green;
+  background: green;
 }
 
 .vote.no {
-    background : red;
+  background: red;
+}
+
+.vote.maybe {
+  background-color: cadetblue;
 }
